@@ -5,7 +5,7 @@
 </p>
 
 <p align="center">
-  <a href="mailto:guilherme.cr.machado@gmail.com">
+  <a href="mailto:dev.guilherme.crm@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
   <a href="https://www.linkedin.com/in/guilherme-machado-990a64284" target="_blank">
@@ -106,7 +106,7 @@ Tenho como foco desenvolver soluções úteis, visuais e bem organizadas, sempre
 ## 🌐 Vamos nos conectar?
 
 <p align="center">
-  <a href="mailto:guilherme.cr.machado@gmail.com">
+  <a href="mailto:dev.guilherme.crm@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
   <a href="https://www.linkedin.com/in/guilherme-machado-990a64284" target="_blank">
