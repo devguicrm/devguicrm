@@ -1,7 +1,7 @@
-<h1 align="center">✨ Hello World, eu sou o Guilherme! 👋</h1>
+<h1 align="center">✨ Hello World, eu sou o Guilherme Machado! 👋</h1>
 
 <p align="center">
-  Desenvolvedor Front-end em formação, focado em criar interfaces modernas, responsivas e com propósito.
+  Desenvolvedor Front-end em formação, estudante de Sistemas de Informação e apaixonado por tecnologia, interfaces modernas e soluções web.
 </p>
 
 <p align="center">
@@ -20,12 +20,26 @@
 
 ## 💡 Sobre mim
 
-- 💻 Estudante de Sistemas de Informação
-- 🛠️ Focado em desenvolvimento web Front-end
-- 🎯 Estudando JavaScript, React e interfaces interativas
-- 🚀 Buscando oportunidades para evoluir na área de tecnologia
-- 🌱 Sempre aprendendo e desenvolvendo novos projetos
-- 📌 Interesse em Front-end, suporte técnico, UI/UX e soluções web
+Sou estudante de **Sistemas de Informação** e estou construindo minha trajetória na área de tecnologia, com foco em **desenvolvimento web Front-end**.
+
+Tenho interesse em criar interfaces modernas, responsivas e funcionais, buscando sempre unir boa experiência do usuário, organização de código e aprendizado constante.
+
+Atualmente venho desenvolvendo projetos próprios para fortalecer meu portfólio, praticar tecnologias web e evoluir como desenvolvedor.
+
+---
+
+## 🚀 Objetivo profissional
+
+Busco oportunidades na área de tecnologia, especialmente em:
+
+- Desenvolvimento Front-end;
+- Desenvolvimento Web;
+- Suporte Técnico;
+- TI e Infraestrutura;
+- UI/UX;
+- Projetos digitais e soluções web.
+
+Meu objetivo é continuar evoluindo tecnicamente, participar de projetos reais e contribuir com soluções práticas, bem estruturadas e eficientes.
 
 ---
 
@@ -40,7 +54,35 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="55px" title="Node.js"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="55px" title="Git"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="55px" title="GitHub"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="55px" title="VS Code"/>
 </p>
+
+---
+
+## 📚 Atualmente estudando
+
+- JavaScript moderno;
+- React;
+- Responsividade;
+- Boas práticas de Front-end;
+- Git e GitHub;
+- UI/UX;
+- Criação de interfaces modernas;
+- Consumo de APIs;
+- Organização e estruturação de projetos web.
+
+---
+
+## 🚀 Projetos em destaque
+
+| Projeto | Descrição | Tecnologias | Acesso |
+|--------|-----------|-------------|--------|
+| **Écko Arquitetura** | Landing page institucional para escritório de arquitetura, com layout responsivo, galeria de projetos e contato via WhatsApp. | HTML, CSS, JavaScript | [Ver projeto](https://devguicrm.github.io/Ecko-arquitetura/) |
+| **Portfólio Pessoal** | Site pessoal desenvolvido para apresentar minhas habilidades, experiências, projetos e trajetória profissional. | HTML, CSS, JavaScript | Em desenvolvimento |
+| **Remap ECU** | Página informativa sobre remapeamento automotivo, ECU, Stages, benefícios, riscos e aplicação acadêmica. | HTML, CSS, JavaScript | Em desenvolvimento |
+| **Dashboard Empresarial** | Sistema visual para controle de serviços, tarefas e informações empresariais. | HTML, CSS, JavaScript | Em desenvolvimento |
+| **TaskFlow** | Aplicação de lista de tarefas com foco em organização, produtividade e interação com o usuário. | HTML, CSS, JavaScript | Em desenvolvimento |
+| **Clima App** | Aplicação web para consulta de clima utilizando interface moderna e dados dinâmicos. | HTML, CSS, JavaScript | Em desenvolvimento |
 
 ---
 
@@ -55,17 +97,6 @@
 
 ---
 
-## 🚀 Projetos em destaque
-
-| Projeto | Descrição | Tecnologias | Acesso |
-|--------|-----------|-------------|--------|
-| Écko Arquitetura | Landing page institucional para escritório de arquitetura, com layout responsivo, galeria de projetos e contato via WhatsApp. | HTML, CSS, JavaScript | [Ver projeto](https://devguicrm.github.io/Ecko-arquitetura/) |
-| Portfólio Pessoal | Site pessoal para apresentação profissional, experiências, habilidades e projetos desenvolvidos. | HTML, CSS, JavaScript | Em desenvolvimento |
-| Remap ECU | Página informativa sobre remapeamento automotivo, ECU, Stages, benefícios, riscos e pesquisa acadêmica. | HTML, CSS, JavaScript | Em desenvolvimento |
-| Controle Financeiro | Aplicação web para controle de entradas, saídas e saldo total. | HTML, CSS, JavaScript | Em breve |
-
----
-
 ## 🧠 Programação em ação
 
 <p align="center">
@@ -74,14 +105,12 @@
 
 ---
 
-## 📌 Atualmente estudando
+## 📌 Um pouco mais sobre minha jornada
 
-- JavaScript moderno
-- React
-- Responsividade
-- Boas práticas de Front-end
-- Git e GitHub
-- Criação de interfaces modernas
+Estou em constante evolução, criando projetos práticos para aplicar meus conhecimentos em desenvolvimento web.  
+Cada projeto desenvolvido representa uma etapa do meu aprendizado, desde a estruturação com HTML, estilização com CSS, interatividade com JavaScript e, futuramente, aplicações mais completas com React.
+
+Tenho como foco desenvolver soluções úteis, visuais e bem organizadas, sempre buscando melhorar a experiência do usuário e a qualidade do código.
 
 ---
 
@@ -102,5 +131,5 @@
 ---
 
 <p align="center">
-  Obrigado por visitar meu perfil! 🚀
+  🚀 Obrigado por visitar meu perfil!
 </p>
