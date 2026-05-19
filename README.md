@@ -77,23 +77,12 @@ Meu objetivo é continuar evoluindo tecnicamente, participar de projetos reais e
 
 | Projeto | Descrição | Tecnologias | Acesso |
 |--------|-----------|-------------|--------|
-| **Écko Arquitetura** | Landing page institucional para escritório de arquitetura, com layout responsivo, galeria de projetos e contato via WhatsApp. | HTML, CSS, JavaScript | [Ver projeto](https://devguicrm.github.io/Ecko-arquitetura/) |
-| **Portfólio Pessoal** | Site pessoal desenvolvido para apresentar minhas habilidades, experiências, projetos e trajetória profissional. | HTML, CSS, JavaScript | Em desenvolvimento |
-| **Remap ECU** | Página informativa sobre remapeamento automotivo, ECU, Stages, benefícios, riscos e aplicação acadêmica. | HTML, CSS, JavaScript | Em desenvolvimento |
-| **Dashboard Empresarial** | Sistema visual para controle de serviços, tarefas e informações empresariais. | HTML, CSS, JavaScript | Em desenvolvimento |
-| **TaskFlow** | Aplicação de lista de tarefas com foco em organização, produtividade e interação com o usuário. | HTML, CSS, JavaScript | Em desenvolvimento |
-| **Clima App** | Aplicação web para consulta de clima utilizando interface moderna e dados dinâmicos. | HTML, CSS, JavaScript | Em desenvolvimento |
-
----
-
-## 📊 Estatísticas do GitHub
-
-<p align="center">
-  <a href="https://github.com/devguicrm">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=devguicrm&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=devguicrm&layout=compact&langs_count=6&theme=tokyonight"/>
-  </a>
-</p>
+| **Eckó Arquitetura** | Landing page institucional para escritório de arquitetura, com layout responsivo, galeria de projetos e contato via WhatsApp. | HTML, CSS, JavaScript | [Ver projeto](https://devguicrm.github.io/Ecko-arquitetura/) |
+| **Portfólio Pessoal** | Site pessoal desenvolvido para apresentar minhas habilidades, experiências, projetos e trajetória profissional. | HTML, CSS, JavaScript | [Ver projeto](https://devguicrm.github.io/Portfolio/) |
+| **Dashboard Empresarial** | Sistema visual para controle de ordens de serviço, tarefas, filtros, indicadores e dados salvos no navegador. | HTML, CSS, JavaScript | [Ver projeto](https://devguicrm.github.io/Dashboard-Controle-de-servicos-empresariais/) |
+| **TaskFlow** | Aplicação de lista de tarefas com cadastro, edição, filtros, prioridades, tema claro/escuro e LocalStorage. | HTML, CSS, JavaScript | [Ver projeto](https://devguicrm.github.io/Taskflow/) |
+| **Clima App** | Aplicação web para consulta de clima, previsão dos próximos dias, localização atual e consumo de API. | HTML, CSS, JavaScript | [Ver projeto](https://devguicrm.github.io/Clima-App/) |
+| **DH Manutenções** | Landing page empresarial para serviços de manutenção, reformas e solicitação de orçamento via WhatsApp. | HTML, CSS, JavaScript, Bootstrap | [Ver projeto](https://devguicrm.github.io/DH-Manutencoes/) |
 
 ---
 
